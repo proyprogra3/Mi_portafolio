@@ -1,0 +1,48 @@
+.resume-container {
+  border: none;
+  background-color: rgba(214, 214, 214, 0.5); /* Fondo semitransparente */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  border-radius: 15px;
+  max-width: 600px; /* Ancho máximo deseado */
+  margin: 0 auto; /* Centra la tarjeta */
+}
+
+.resume-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.resume-header img {
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.resume-header h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.resume-content p {
+  margin: 5px 0;
+  font-size: 20px
+}
+
+button {
+  margin: 20px; /* Aumentar el margen para mayor separación */
+  padding: 15px 30px; /* Aumentar el padding para hacer más grande el botón */
+  font-size: 20px; /* Aumentar el tamaño de la fuente */
+  color: #fff;
+  background-color: #6b9580;
+  border: none;
+  border-radius: 50px; /* Forma circular */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+  background-color: #5a6268;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
