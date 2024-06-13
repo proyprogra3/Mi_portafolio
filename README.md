@@ -6,10 +6,10 @@ HOME
 RESUME
 PROFILE
 
-El cual Home se utilizo para que sea el inicio del portafolio, teniendo 2 botones que redirigen a PROFILE que es mi perfil profesional, el RESUME es mi Cirroculum
+El cual Home se utilizo para que sea el inicio del portafolio, teniendo 2 botones que redirigen a PROFILE que es mi perfil profesional, el RESUME es mi Curriculum
 con opcion de descarga del mismo.
 
-Se utilizaron rutas implemntadas para poder redireccionar a cada una de las vistas.
+Se utilizaron rutas implementadas para poder redireccionar a cada una de las vistas.
 
 Se implemento bootstrap para formato de botones y css para poder darle vista al app.
 
@@ -20,5 +20,9 @@ asi como tambien en Git Pages pero solamente muestra la pantalla principal, inte
 se despliegue
 
 https://proyprogra3.github.io/Portafolio2/
+
+Adjunto link de tunnel creado por visual como segunda opcion para poder verlo en linea
+
+https://hr72hts8-4200.use2.devtunnels.ms/
 
 Agradecido de antemano por el curso que nos enseño que sera de utilidad para nuestro futuro.
