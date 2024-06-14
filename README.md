@@ -23,6 +23,6 @@ https://proyprogra3.github.io/Portafolio2/
 
 Adjunto link de tunnel creado por visual como segunda opcion para poder verlo en linea
 
-https://hr72hts8-4200.use2.devtunnels.ms/
+https://7ggmj85l-4200.use.devtunnels.ms/
 
 Agradecido de antemano por el curso que nos enseño que sera de utilidad para nuestro futuro.
